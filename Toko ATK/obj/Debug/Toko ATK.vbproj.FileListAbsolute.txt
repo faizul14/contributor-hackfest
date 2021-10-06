@@ -1,0 +1,16 @@
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\bin\Debug\Toko ATK.exe.config
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\bin\Debug\Toko ATK.exe
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\bin\Debug\Toko ATK.pdb
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\bin\Debug\Toko ATK.xml
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko ATK.vbprojAssemblyReference.cache
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko_ATK.login.resources
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko_ATK.Resources.resources
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko ATK.vbproj.GenerateResource.cache
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko ATK.vbproj.CoreCompileInputs.cache
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko ATK.exe
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko ATK.xml
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko ATK.pdb
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko_ATK.MainMenu.resources
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko_ATK.Barang.resources
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\bin\Debug\DatabaseATK.accdb
+D:\Kuliah\Iqbal\SMT 4\ABD\File Virtual Studio\Toko ATK\Toko ATK\obj\Debug\Toko_ATK.Transaksi.resources
