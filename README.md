@@ -19,5 +19,6 @@ If you’ve never contributed to open source before, this is the perfect time to
 
 # tempat-kontributor
 UP PROJEKNYA KAWAN
+#OJOL semangat ya!!!
 
 \
